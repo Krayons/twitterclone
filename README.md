@@ -10,7 +10,7 @@
 
 ## Building
 
-To build the project GO will need to be installed and correctly configured. It is recommened to use the latest 1.x version.
+To build the project, GO will need to be installed and configured correctly. It is recommended to use the latest 1.x version.
 
 ```
 git clone git@github.com:Krayons/twitterclone.git
@@ -35,4 +35,4 @@ Usage of ./texttwitter:
 Assumptions:
 * Textfile for users and tweets can fit in memory.
 * Usernames are ascii and are only valid is they are contain only A-Z,a-z,0-9
-* If the users file has a single user multiple times only the latest one will be assumed correct
+* If the user's file has a single user multiple times only the latest one will be assumed correct
